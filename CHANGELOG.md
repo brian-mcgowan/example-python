@@ -8,5 +8,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - [CHANGELOG.md](CHANGELOG.md) (this file) to track changes to the project over time.
 - [README.md](README.md) to provide basic project documentation.
+- Python project structural files.
 
 [Unreleased]: https://github.com/brian-mcgowan/example-python/compare/main...develop
